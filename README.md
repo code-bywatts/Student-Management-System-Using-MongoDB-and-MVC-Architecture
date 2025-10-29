@@ -1,0 +1,2 @@
+# Student-Management-System-Using-MongoDB-and-MVC-Architecture
+Created a student management system using Node.js, Express.js, and MongoDB (with Mongoose). Defined a Student model with properties like name, age, and course. Implemented a controller to handle CRUD operations (create, read, update, delete) on student data. Set up routes to connect client requests to the appropriate controller methods.
